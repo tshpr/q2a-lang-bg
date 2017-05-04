@@ -5,7 +5,7 @@ Project: http://www.question2answer.org
 
 ##Installation##
 
-Download file https://github.com/pazoff/q2a-lang-bg/archive/master.zip
-Unpack master.zip
-Upload the files via FTP in directory /qa-lang/bg
-Q2A AdminPanel -> General -> Site language -> Bulgarian -> Save Options
+<li>Download file https://github.com/pazoff/q2a-lang-bg/archive/master.zip</li>
+<li>Unpack master.zip</li>
+<li>Upload the files via FTP in directory /qa-lang/bg</li>
+<li>Q2A AdminPanel -> General -> Site language -> Bulgarian -> Save Options</li>
