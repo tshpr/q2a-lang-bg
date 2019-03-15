@@ -1,5 +1,5 @@
 # q2a-lang-bg
-Bulgarian translation of Question2Answer (Q2A) ver. 1.7
+Bulgarian translation of Question2Answer (Q2A) ver. 1.8
 
 Project: http://www.question2answer.org
 

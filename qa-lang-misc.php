@@ -85,6 +85,7 @@
 		'nav_user_as' => 'Всички отговори',
 		'nav_user_qs' => 'Всички въпроси',
 		'nav_user_wall' => 'Стена',
+		'next_step' => "Следваща стъпка",
 		'no_activity_from_x' => 'Няма активност от ^',
 		'no_favorite_categories' => 'Няма любими категории',
 		'no_favorite_qs' => 'Няма любими въпроси',
