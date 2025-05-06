@@ -72,7 +72,7 @@
 		'comment_moved' => 'коментарът е преместен',
 		'comment_reshown' => 'коментарът е показан отново',
 		'commented' => 'коментиран',
-		'date_day_min_digits' => 1, // 1 or 2
+		'date_day_min_digits' => '1', // 1 or 2
 		'date_format_other_years' => '^year ^month ^day',
 		'date_format_this_year' => '^day ^month',
 		'date_month_1' => 'януари',
@@ -87,7 +87,7 @@
 		'date_month_10' => 'октомври',
 		'date_month_11' => 'ноември',
 		'date_month_12' => 'декември',
-		'date_year_digits' => 4, // 2 or 4
+		'date_year_digits' => '4', // 2 or 4
 		'edited' => 'редактиран',
 		'field_required' => 'Моля, въведете нещо в това поле',
 		'general_error' => 'Случи се грешка в сървъра - моля опитайте отново.',
